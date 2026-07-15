@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Next.js
+client/.next/
+
+# Environment variables
+.env
+**/.env
+
+# Uploaded files
+server/uploads/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+**/dev/
+**/.next/
